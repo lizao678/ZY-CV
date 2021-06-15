@@ -1,0 +1,29 @@
+//////////////////////////////
+//         Reset CSS
+//////////////////////////////
+html, body, div, span, h1, h2, h3, h4, h5, a, em, img, small, strong, dl, dt, dd, ol, ul, li, time {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  
+  html {
+    font-family: Microsoft YaHei Regular, Microsoft YaHei Regular-Regular; /* 1 */
+    line-height: 1.15; /* 2 */
+    -ms-text-size-adjust: 100%; /* 3 */
+    -webkit-text-size-adjust: 100%; /* 3 */
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+ 
